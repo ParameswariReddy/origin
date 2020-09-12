@@ -1,4 +1,6 @@
 int add(int c,int b)
 {
-return c + b;
+	int a;
+   a =	c + b;
+   return a;
 }
